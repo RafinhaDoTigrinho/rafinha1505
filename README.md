@@ -4,7 +4,7 @@
 - Estou desenvolvendo linguagens javscript, html e css.
 - Utilizo este espaço para organização e compartilhamento dos meus projetos.
  
- ### vocẽ pode entarar em contato comigo 📫📧
+ ### Você pode entarar em contato comigo 📫📧
  
  rafaela.branco.martins@escola.pr.gov.br
 
