@@ -1,16 +1,12 @@
-### Hi there 👋
+### Bem vindo ao meu perfil!! 🫀🤍
+- Meu nome é Rafaela!.
+- Estou estudando na plataforma.
+- Estou desenvolvendo linguagens javscript, html e css.
+- Utilizo este espaço para organização e compartilhamento dos meus projetos.
+ 
+ ### vocẽ pode entarar em contato comigo 📫📧
+ 
+ rafaela.branco.martins@escola.pr.gov.br
 
-<!--
-**rafinha1505/rafinha1505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ![](https://media.tenor.com/RfcGcmZrV7MAAAAC/lol.gif)
+ 
