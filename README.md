@@ -1,6 +1,6 @@
 ### Bem vindo ao meu perfil!! 🫀🤍
 - Meu nome é Rafaela!.
-- Estou estudando na plataforma.
+- Estou estudando na plataforma Alura.
 - Estou desenvolvendo linguagens javscript, html e css.
 - Utilizo este espaço para organização e compartilhamento dos meus projetos.
  
